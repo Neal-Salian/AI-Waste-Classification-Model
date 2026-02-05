@@ -1,7 +1,3 @@
-# AI-Waste-Classification-Model
-
----
-
 # ♻️ AI Waste Classification Model
 
 👉 **Project Notebook:** [View on Kaggle](https://www.kaggle.com/code/nealsalian/ai-waste-classification-model)
