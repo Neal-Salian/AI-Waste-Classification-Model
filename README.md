@@ -1,7 +1,4 @@
 # AI-Waste-Classification-Model
-Here is a clean, professional **README-ready description** based directly on your Kaggle notebook.
-
-You can copy-paste this into GitHub and edit small details (like dataset name or metrics) if needed.
 
 ---
 
