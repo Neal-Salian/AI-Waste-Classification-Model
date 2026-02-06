@@ -1,7 +1,5 @@
 # ♻️ AI Waste Classification Model
 
-👉 **Project Notebook:** [View on Kaggle](https://www.kaggle.com/code/nealsalian/ai-waste-classification-model)
-
 ## 📌 Overview
 
 The **AI Waste Classification Model** is a computer vision project designed to automatically classify waste images using deep learning techniques. The goal is to support smarter waste segregation and improve recycling efficiency by reducing manual sorting efforts.
